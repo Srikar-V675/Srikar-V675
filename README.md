@@ -14,7 +14,7 @@ Actively applying data analysis techniques and machine learning algorithms throu
 ### 🌍 Aspirations
 I'm preparing to take the AWS Cloud Practitioner exam, a step towards becoming an AWS ML Specialist. I'm confident that this certification will equip me with the necessary skills and knowledge to build and deploy scalable, cost-effective, and reliable machine-learning solutions on the AWS cloud platform in the future.
 
-![0%](https://progress-bar.dev/0/?scale=&title=&width=1000&color=green&suffix=%)
+![30%](https://progress-bar.dev/35/?scale=&title=&width=1000&color=green&suffix=%)
 
 ### 🧩 Open Source Contribution
 As I embark on my journey in machine learning, I aspire to contribute to at least three open-source machine learning projects in the next year. I'm particularly interested in applying machine learning to solve real-world problems.
