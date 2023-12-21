@@ -27,6 +27,20 @@ Here's a glimpse into my technical skills and areas of expertise:
 * Machine Learning Frameworks: scikit-learn
 * Cloud Platforms: AWS (Beginner level: Familiarity with AWS services, understanding of cloud computing concepts).
 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyternotebook/jupyternotebook.png"></code>
+
+<a href="https://github.com/Srikar-V675">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srikar-V675&show_icons=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/Srikar-V675">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar-V675&layout=compact" />
+</a>
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikar-v-401205269)
 [![twitter](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://shinigami-srikar.medium.com)
