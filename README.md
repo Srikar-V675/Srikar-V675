@@ -36,7 +36,7 @@ Here's a glimpse into my technical skills and areas of expertise:
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
 <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
 <img height="40" src="https://geopandas.org/en/stable/_images/geopandas_icon.png">
-
+<img height="40" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png">
 
 <a href="https://github.com/Srikar-V675">
   <img src="https://github-readme-stats.vercel.app/api?username=Srikar-V675&show_icons=true&hide_border=true" />
