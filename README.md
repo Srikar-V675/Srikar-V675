@@ -33,14 +33,8 @@ Here's a glimpse into my technical skills and areas of expertise:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyternotebook/jupyternotebook.png"></code>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter/jupyter.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
-<img height="40" src="https://matplotlib.org/_static/logo2_compressed.svg">
-  <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-  <img height="40" src="https://plotly.com/all.svg">
-  <img height="40" src="https://geopandas.org/en/stable/_images/geopandas_logo_stacked.svg"> 
-  <img height="40" src="https://leafletjs.com/docs/images/logo.png">
+<img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
 
 <a href="https://github.com/Srikar-V675">
   <img src="https://github-readme-stats.vercel.app/api?username=Srikar-V675&show_icons=true&hide_border=true" />
