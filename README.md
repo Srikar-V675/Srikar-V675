@@ -35,7 +35,7 @@ Here's a glimpse into my technical skills and areas of expertise:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
 <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-<img height="40" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fplotly.com%2F&psig=AOvVaw0wZKxnKQaBZdP9VetYDSgK&ust=1705418251711000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMim7JzY34MDFQAAAAAdAAAAABAI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeopandas.org%2Fabout%2Flogo.html&psig=AOvVaw1D-vjVNmqtswP6GapKQVB5&ust=1705418376208000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCbrtnY34MDFQAAAAAdAAAAABAD)](https://geopandas.org/en/stable/_images/geopandas_icon.png)">
+<img height="40" src="https://geopandas.org/en/stable/_images/geopandas_icon.png">
 
 
 <a href="https://github.com/Srikar-V675">
