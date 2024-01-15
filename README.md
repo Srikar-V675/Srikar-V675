@@ -3,16 +3,17 @@ Hi, I'm Srikar V! 👋
 
 
 ### 🚀 About Me
-I'm a passionate computer science engineering student from Bangalore, India. I'm fascinated by the intersection of technology and human potential, and I'm particularly drawn to the transformative power of machine learning and artificial intelligence (AI). I'm a certified AWS Cloud Practitioner.
+I'm a passionate computer science engineering student from Bangalore, India, currently holding the AWS Cloud Practitioner certification. I'm fascinated by the intersection of technology and human potential, particularly drawn to the transformative power of machine learning and artificial intelligence (AI). My next goal is to crack the AWS Solutions Architect certification.
+
 
 ### 👀 Interested in
-I'm fascinated by the potential of cloud-based ML and AI to revolutionize various industries and am eager to contribute to its advancement.
+I'm fascinated by the potential of cloud-based ML and AI to revolutionize various industries and am eager to contribute to its advancement. Particularly interested in AWS Cloud projects.
 
 ### 🌱 Currently learning
 Actively applying data analysis techniques and machine learning algorithms through practical projects centered around Python programming. Also learning to implement whatever I learnt for the AWS Cloud Practioner Certification into cloud projects.
 
 ### 🌍 Aspirations
-I'm preparing to take the AWS Cloud Practitioner exam, a step towards becoming an AWS ML Specialist. I'm confident that this certification will equip me with the necessary skills and knowledge to build and deploy scalable, cost-effective, and reliable machine-learning solutions on the AWS cloud platform in the future.
+I'm preparing to take the AWS Solutions Architect exam, aiming to become proficient in designing scalable, cost-effective, and reliable solutions on the AWS cloud platform in the future.
 
 ![100%](https://progress-bar.dev/100/?scale=&title=&width=1000&color=green&suffix=%)
 
@@ -26,13 +27,16 @@ Here's a glimpse into my technical skills and areas of expertise:
 * Exploratory Data Analysis: matplotlib, seaborn, plotly
 * Machine Learning Frameworks: scikit-learn
 * Geospatial Analysis: geopandas, folium
-* Cloud Platforms: AWS (Beginner level: Familiarity with AWS services, understanding of cloud computing concepts).
+* Cloud Platforms: AWS (Certified Cloud Practitioner).
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyternotebook/jupyternotebook.png"></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter/jupyter.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
+<img height="40" src="https://matplotlib.org/_static/logo2_compressed.svg">
 
 <a href="https://github.com/Srikar-V675">
   <img src="https://github-readme-stats.vercel.app/api?username=Srikar-V675&show_icons=true&hide_border=true" />
