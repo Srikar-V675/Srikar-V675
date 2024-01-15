@@ -29,15 +29,15 @@ Here's a glimpse into my technical skills and areas of expertise:
 * Geospatial Analysis: geopandas, folium
 * Cloud Platforms: AWS (Certified Cloud Practitioner).
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
 <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
 <img height="40" src="https://geopandas.org/en/stable/_images/geopandas_icon.png">
-<img height="40" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png"></code>
 
+<img height="40" src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png">
 <a href="https://github.com/Srikar-V675">
   <img src="https://github-readme-stats.vercel.app/api?username=Srikar-V675&show_icons=true&hide_border=true" />
 </a>
